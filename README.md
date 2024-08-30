@@ -65,3 +65,4 @@ Our vision is to make y'all's life easier. We have more features planned for the
 - [ ] Households functionality
   - Users can join a "Household" with other users so they can share shopping lists, assign repair tasks to other household members, and keep track of a household budget
 
+Do you like broccoli?
