@@ -19,8 +19,8 @@ Our vision is to make y'all's life easier. We have more features planned for the
 
 ## Contributors
 * [Rich Bozek](https://github.com/rbozek "Rich Bozek's GitHub Profile")
-* [Shawn Kang](https://github.com/shawnkang0818 "Shawn Kang's GitHub Profile")
 * [Nat Nichols](https://github.com/natnichols "Nat Nichols's GitHub Profile")
+* [Shawn Kang](https://github.com/shawnkang0818 "Shawn Kang's GitHub Profile")
 
 ## Attributions 🎉
 * **Decoupled MERN Stack with JWT Auth Template** is from [GA's SEI Github Repository](https://github.com/SEI-Remote/decoupled-mern-jwt-auth-template-front-end "SEI-Remote Decoupled MERN Stack with JWT Auth Template - Front End GitHub Repo")
@@ -49,8 +49,8 @@ Our vision is to make y'all's life easier. We have more features planned for the
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b63fcb9f-8d85-417b-b49e-8514fce38d4b/deploy-status)](https://app.netlify.com/sites/homewrangler/deploys)
 ![Fly.io](https://img.shields.io/badge/Fly.io%20-%20purple)
 
-### Please check out [homewrangler-back-end](https://github.com/natnichols/homewrangler-back-end "homewrangler-back-end GitHub Repo") to view the Back-End Repository for HomeWrangler!
-### [View our Planning Materials on Trello](https://trello.com/b/07MzUQgw/homewrangler%F0%9F%A4%A0 "HomeWrangler Trello Board") 🤠📋
+### [GO HERE](https://github.com/rbozek/homewrangler-back-end "homewrangler-back-end GitHub Repo") to view the back-end repo for HomeWrangler
+### [View Planning Materials on Trello](https://trello.com/b/07MzUQgw/homewrangler%F0%9F%A4%A0 "HomeWrangler Trello Board") 🤠📋 (requires account)
 
 ## Ice Box 🧊
 - [ ] Dark Mode
@@ -62,7 +62,4 @@ Our vision is to make y'all's life easier. We have more features planned for the
 - [ ] Add Amount Left field to Pantry Items, so that the user can keep track of how much they have left of certain items in their pantry
 - [ ] Add Expiration Date field to Pantry Items, so that the user can keep track of when their perishable pantry items are going to expire
 - [ ] Weather API  - incorporate a Weather API to display local weather conditions in the nav bar, so that the user can keep track of weather conditions that may influence when they travel to the grocery store, or complete certain repairs
-- [ ] Households functionality
-  - Users can join a "Household" with other users so they can share shopping lists, assign repair tasks to other household members, and keep track of a household budget
-
-Do you like broccoli?
+- [ ] Households functionality - Users can join a "Household" with other users so they can share shopping lists, assign repair tasks to other household members, and keep track of a household budget
